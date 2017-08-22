@@ -1,0 +1,121 @@
+body
+{
+	background-color: white;
+	background-image: url(images/background.gif);
+	background-repeat: no-repeat;
+	margin: 0;
+}	
+
+.title	{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #58595B;
+}
+
+#resume p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #58595B;
+	margin-top: 0;
+}
+
+#resume h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000000;
+	font-weight: bold;
+	margin: 0;
+}
+#resume h2,#resume h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #58595B;
+	font-weight: bold;
+	margin: 0;
+}
+
+#resume .address {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 8pt;
+	color: #000;
+}
+
+a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #58595B;
+	text-decoration: none;
+
+}
+a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #58595B;
+	text-decoration: none;
+
+}
+a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+
+}
+a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+;
+}
+
+.currentSection	{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+
+}
+
+
+
+
+
+
+
+a.pdf:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #58595B;
+	font-weight: regular;
+	text-decoration: none;
+}
+
+a.pdf:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #58595B;
+	text-decoration: none;
+	font-weight: regular;
+}
+
+a.pdf:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: regular;
+}
+
+a.pdf:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #000000;
+	font-weight: regular;
+	text-decoration: none;
+}
